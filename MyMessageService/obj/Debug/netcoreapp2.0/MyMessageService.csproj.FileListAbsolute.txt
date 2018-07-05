@@ -1,0 +1,11 @@
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\bin\Debug\netcoreapp2.0\MyMessageService.deps.json
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\bin\Debug\netcoreapp2.0\MyMessageService.runtimeconfig.json
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\bin\Debug\netcoreapp2.0\MyMessageService.runtimeconfig.dev.json
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\bin\Debug\netcoreapp2.0\MyMessageService.dll
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\obj\Debug\netcoreapp2.0\MyMessageService.csprojAssemblyReference.cache
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\obj\Debug\netcoreapp2.0\MyMessageService.csproj.CoreCompileInputs.cache
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\obj\Debug\netcoreapp2.0\MyMessageService.AssemblyInfoInputs.cache
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\obj\Debug\netcoreapp2.0\MyMessageService.AssemblyInfo.cs
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\bin\Debug\netcoreapp2.0\MyMessageService.pdb
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\obj\Debug\netcoreapp2.0\MyMessageService.dll
+c:\users\daniel\source\repos\MyMessageService\MyMessageService\obj\Debug\netcoreapp2.0\MyMessageService.pdb
